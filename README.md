@@ -18,7 +18,7 @@ When you accomplish this a great firework will appear on your screen!
 
 ## Live link
 Tenzies is deployed here:
-[https://toms-tenzies.netlify.app](https://toms-tenzies.netlify.app)
+[https://tenzies-extended.netlify.app](https://tenzies-extended.netlify.app)
 
 Please feel free to visit and try the game!
 

@@ -28,3 +28,9 @@ Please feel free to visit and try the game!
 ### Conditionall rendering
 
 ### Keep track of certain condition
+
+## Future ideas
+- Real dots
+- Track the number of rolls
+- Track the time it took to win
+- Save your best time to localStorage
